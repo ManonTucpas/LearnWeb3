@@ -1,0 +1,38 @@
+
+The deployed contract's address
+Copy it via the copy button next to the deployed contracts pulldown in remix's Run tab
+
+0xD1BA059255EA39CE3Cc708975Ea853Ea833879eF
+
+
+The contract ABI (what is that?)
+Copy it via the copy button under to the contract in remix's Compile tab (also in Details)
+
+[
+	{
+		"inputs": [
+			{
+				"internalType": "string",
+				"name": "_mood",
+				"type": "string"
+			}
+		],
+		"name": "setMood",
+		"outputs": [],
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"inputs": [],
+		"name": "getMood",
+		"outputs": [
+			{
+				"internalType": "string",
+				"name": "",
+				"type": "string"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	}
+]

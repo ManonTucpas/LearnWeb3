@@ -1,0 +1,5 @@
+1. Run lite-server in a terminal
+2. Go to http://127.0.0.1:3000/
+3. Connect your metamask address in the browser
+4. For "Set Mood" button you'll to have Ropsten ETH to validate the transaction
+5. When done , the setMood will be on the contract address and you'll get it by "Get mood" on the console log.
